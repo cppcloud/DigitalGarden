@@ -7,3 +7,4 @@
 [[Linux/03.异常\|03.异常]]
 [[Linux/04.收集用户进程核心转储\|04.收集用户进程核心转储]]
 [[Linux/05.x64 Disassembly\|05.x64 Disassembly]]
+[[Linux/06.GDB\|06.GDB]]
