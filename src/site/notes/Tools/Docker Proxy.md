@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Tools/Docker Proxy/","tags":["tools"]}
+{"dg-publish":true,"permalink":"/tools/docker-proxy/","tags":["tools"]}
 ---
+
 
 ## 配置docker代理
 

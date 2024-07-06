@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
+
 
 
 # Tools
