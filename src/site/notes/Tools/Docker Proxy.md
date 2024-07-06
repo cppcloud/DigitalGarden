@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tools/docker-proxy/","tags":["tools"]}
+{"dg-publish":true,"permalink":"/tools/docker-proxy/","tags":["tools"],"dgPassFrontmatter":true}
 ---
 
 
