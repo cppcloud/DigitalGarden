@@ -11,7 +11,7 @@
 [[Tools/RustDesk\|RustDesk]]
 # CPP
 
-[[CPP/C++迭代器失效\|C++迭代器失效]]
+[[CPP/cpp迭代器失效\|cpp迭代器失效]]
 
 [[CPP/循环引用\|循环引用]]
 
