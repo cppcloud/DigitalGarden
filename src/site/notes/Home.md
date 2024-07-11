@@ -9,6 +9,8 @@
 [[Tools/Docker Proxy\|Docker Proxy]]
 
 [[Tools/RustDesk\|RustDesk]]
+
+[[Tools/QssStylesheetEditor\|QssStylesheetEditor]]
 # CPP
 
 [[CPP/STL中迭代器失效\|STL中迭代器失效]]
