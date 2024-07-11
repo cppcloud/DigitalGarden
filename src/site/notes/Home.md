@@ -28,7 +28,6 @@
 
 我非常期待能够与各位技术爱好者交流和学习。如果您有任何问题或建议，欢迎通过邮件与我联系。
 
-### 联系方式 ：
-
-#### 邮箱 ：[admin@z23.cc](mailto:admin@z23.cc)
-#### GitHub ：[cppcloud]([cppcloud (cppclub) · GitHub](https://github.com/cppcloud))
+**联系方式 ：**
+邮箱 ：[admin@z23.cc](mailto:admin@z23.cc)
+GitHub ：[cppcloud](https://github.com/cppcloud))
