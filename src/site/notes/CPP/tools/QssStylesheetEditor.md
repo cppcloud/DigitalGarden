@@ -1,5 +1,5 @@
 ---
-{"tags":["tools"],"dg-publish":true,"permalink":"/CPP/tools/QssStylesheetEditor/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-11T16:54:27.210+08:00","updated":"2024-07-11T17:00:39.146+08:00"}
+{"tags":["tools"],"dg-publish":true,"permalink":"/CPP/tools/QssStylesheetEditor/","dgPassFrontmatter":true}
 ---
 
 

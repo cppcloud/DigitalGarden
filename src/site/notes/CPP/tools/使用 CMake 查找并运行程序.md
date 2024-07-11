@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["cpp"],"permalink":"/CPP/tools/使用 CMake 查找并运行程序/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-12T03:30:29.065+08:00","updated":"2024-07-12T03:34:02.384+08:00"}
+{"dg-publish":true,"tags":["cpp"],"permalink":"/CPP/tools/使用 CMake 查找并运行程序/","dgPassFrontmatter":true}
 ---
 
 

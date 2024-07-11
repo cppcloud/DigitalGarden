@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["tools"],"permalink":"/Tools/RustDesk/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-07T02:39:39.637+08:00","updated":"2024-07-07T02:43:03.174+08:00"}
+{"dg-publish":true,"tags":["tools"],"permalink":"/Tools/RustDesk/","dgPassFrontmatter":true}
 ---
 
 

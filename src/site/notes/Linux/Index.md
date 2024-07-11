@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["linux"],"permalink":"/Linux/Index/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-12T03:44:09.817+08:00","updated":"2024-07-12T03:46:16.079+08:00"}
+{"dg-publish":true,"tags":["linux"],"permalink":"/Linux/Index/","dgPassFrontmatter":true}
 ---
 
 [[Linux/01.虚拟内存和内存转储\|01.虚拟内存和内存转储]]
