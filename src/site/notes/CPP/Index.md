@@ -11,7 +11,13 @@
 
 # CMake
 
-[[CPP/tools/使用 CMake 查找并运行程序\|使用 CMake 查找并运行程序]]
+[[CPP/cmake/使用 CMake 查找并运行程序\|使用 CMake 查找并运行程序]]
+
+[[CPP/cmake/CMake 中集成 CppCheck 和 CppLint\|CMake 中集成 CppCheck 和 CppLint]]
+
+[[CPP/cmake/CMake中使用CCache加速编译\|CMake中使用CCache加速编译]]
+
+[[CPP/cmake/CMake构建后的资源复制\|CMake构建后的资源复制]]
 
 
 # Concurrent
