@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/CPP/CRTP/","tags":["cpp"]}
+{"dg-publish":true,"permalink":"/CPP/CRTP/","tags":["cpp"],"dgPassFrontmatter":true}
 ---
+
 
 ## Mixins with CRTP
 
@@ -111,6 +112,9 @@ template <typename Derived>
 struct Base{
   void interface(){
     static_cast<Derived*>(this)->implementation();
+public:
+	Base()=default;
+	friend Derived1;
   }
   
   void implementation(){
