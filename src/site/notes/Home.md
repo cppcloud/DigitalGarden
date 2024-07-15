@@ -12,6 +12,9 @@
 
 [[CPP/Index\|CPP/Index]]
 
+# Rust
+
+[[Rust/Index\|Rust/Index]]
 # Linux
 
 [[Linux/Index\|Linux/Index]]
