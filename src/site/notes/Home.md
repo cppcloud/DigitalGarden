@@ -27,8 +27,9 @@
 
 [[Tools/Index\|Tools/Index]]
 
+# DesignPattern
 
-
+[[DesignPattern/Index\|DesignPattern/Index]]
 
 
 ## 期待与您交流
