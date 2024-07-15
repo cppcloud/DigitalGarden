@@ -8,6 +8,7 @@
 
 [[CPP/tools/QssStylesheetEditor\|QssStylesheetEditor]]
 
+[[CPP/tools/CGDB的使用\|CGDB的使用]]
 
 # CMake
 
