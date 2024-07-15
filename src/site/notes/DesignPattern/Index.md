@@ -11,3 +11,7 @@
 [[DesignPattern/策略模式和委托\|策略模式和委托]]
 
 [[DesignPattern/工厂方法\|工厂方法]]
+
+[[DesignPattern/单例模式\|单例模式]]
+
+[[DesignPattern/单态模式\|单态模式]]
