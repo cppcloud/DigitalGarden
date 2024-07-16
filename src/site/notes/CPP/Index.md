@@ -20,7 +20,7 @@
 
 [[CPP/cmake/CMake构建后的资源复制\|CMake构建后的资源复制]]
 
-
+[[CPP/cmake/CMake 中集成 clang-tidy\|CMake 中集成 clang-tidy]]
 # Concurrent
 
 [[CPP/条件变量\|条件变量]]
