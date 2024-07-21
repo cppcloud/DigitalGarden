@@ -40,8 +40,8 @@ conda config --set auto_activate_base false
 
 使用conda，一般其流程是
 ```bash
-conda create -n gptac_venv python=3.11
-conda activate gptac_venv
+conda create -n gpt python=3.10
+conda activate gpt
 python -m pip install -r requirements.txt
 python main.py
 ```
@@ -49,8 +49,8 @@ python main.py
 使用 `uv` 的话，其流程就是
 
 ```bash
-conda activate py11
-uv venv --seed -p 3.11
+conda activate py10
+uv venv --seed -p 3.10
 conda deactivate
 uv pip install -r requirements.txt
 source ./.venv/bin/activate
