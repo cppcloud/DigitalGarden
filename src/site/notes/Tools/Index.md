@@ -15,3 +15,5 @@
 [[Tools/python包管理器uv\|python包管理器uv]]
 
 [[Tools/WSL配置\|WSL配置]]
+
+[[Tools/Pyqt环境配置\|Pyqt环境配置]]
