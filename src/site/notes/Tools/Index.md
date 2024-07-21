@@ -14,4 +14,4 @@
 
 [[Tools/python包管理器uv\|python包管理器uv]]
 
-[[Tools/boss直聘批量投递简历脚本\|boss直聘批量投递简历脚本]]
+[[Tools/WSL配置\|WSL配置]]
