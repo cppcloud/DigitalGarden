@@ -12,4 +12,6 @@
 
 [[Tools/自建的deepl翻译\|自建的deepl翻译]]
 
+[[Tools/python包管理器uv\|python包管理器uv]]
+
 [[Tools/boss直聘批量投递简历脚本\|boss直聘批量投递简历脚本]]
