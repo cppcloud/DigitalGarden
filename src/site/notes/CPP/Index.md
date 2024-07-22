@@ -41,3 +41,4 @@
 
 [[CPP/循环引用\|循环引用]]
 
+[[CPP/使用 scope_guard 进行资源管理\|使用 scope_guard 进行资源管理]]
