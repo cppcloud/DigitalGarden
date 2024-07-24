@@ -6,3 +6,4 @@
 
 [[Rust/RAII和OBRM解析\|RAII和OBRM解析]]
 
+[[Rust/Rust编译32bit程序\|Rust编译32bit程序]]
